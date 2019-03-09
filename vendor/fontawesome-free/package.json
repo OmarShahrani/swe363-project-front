@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.7.0",
-      "e:\\dev\\projects\\personal\\omar\\startbootstrap-agency-gh-pages"
+      "C:\\Users\\omarm\\projects\\swe363-project-front"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.7.0",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.7.0.tgz",
   "_spec": "5.7.0",
-  "_where": "e:\\dev\\projects\\personal\\omar\\startbootstrap-agency-gh-pages",
+  "_where": "C:\\Users\\omarm\\projects\\swe363-project-front",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
